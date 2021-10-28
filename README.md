@@ -10,6 +10,7 @@ git clone https://github.com/marianations/Pokeapi.git
 * instalar os pacotes:
 
 pip install requests
+
 pip install pytest 
 
 
