@@ -7,7 +7,18 @@ Utiliza a api do https://pokeapi.co/ para procurar pelo pokémon ditto e valida 
 git clone https://github.com/marianations/Pokeapi.git
 
 
-* instalar os pacotes:
+* Pré requisitos:
+
+Python 3.6+
+
+Requests
+
+Pytest
+
+
+*Instalando o Requests e o Pytest
+
+execute o comando abaixo no seu terminal:
 
 pip install requests
 
